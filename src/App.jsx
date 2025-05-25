@@ -109,7 +109,7 @@ function App() {
               }
             })
           ) : (
-            <p className="text-zinc-500">Generaing...</p>
+            <p className="text-zinc-500">Generating...</p>
           )}
         </div>
 
