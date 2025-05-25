@@ -83,7 +83,7 @@ function App() {
               switch (block.type) {
                 case "heading":
                   return (
-                    <h3 key={index} className="text-lg font-bold text-white">
+                    <h3 key={index} className="text-lg font-bold text-amber-300">
                       {block.content}
                     </h3>
                   );
